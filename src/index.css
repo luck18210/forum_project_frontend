@@ -1,0 +1,28 @@
+@import url("https://fonts.googleapis.com/css2?family=Raleway&display=swap");
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+html {
+  scroll-behavior: smooth;
+}
+
+textarea,
+input:focus {
+  outline: none;
+}
+
+ol {
+  list-style-type: decimal;
+  list-style-position: inside; /* default */
+}
+
+ul {
+  list-style-type: circle;
+  list-style-position: inside; /* default */
+}
+
+a {
+  color: #0ea5e9;
+}
