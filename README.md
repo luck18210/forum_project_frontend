@@ -16,10 +16,8 @@ Frontend: React.js, Tailwind
 
 - [Demo by Netlify for v3.2.0](https://justforum.netlify.app/)
 
-[Backend: Ruby on Rails (BACKEND IS NO LONGER RUNNING)](https://github.com/ForAeons/cvwo_forum_backend)  
+[Backend: Ruby on Rails](https://github.com/luck18210/forum_project_backend)  
 Database: PostgreSQL
-
-- Hosted by Heroku
 
 ---
 
@@ -76,11 +74,3 @@ Database: PostgreSQL
 - [freeCodeCamp.com](https://www.youtube.com/@freecodecamp)'s TypeScript courses and more
 
 - [Codemy.com](https://www.youtube.com/@Codemycom)
-
-## Special thanks
-
-- [Joe Eng](https://www.linkedin.com/in/yu-siang-eng/)'s feedback and encouragement
-
-- kamihimmel#8918's suggestions on layout
-
-- tooLazyToShowUp#0194's feedback on bugs
